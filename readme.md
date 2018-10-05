@@ -1,9 +1,17 @@
 # gFighter Project
 
-This project will have you building a backend restful crud api and a front-end react application around it.
+## Overview
+
+This project will have you building a backend REST-ful CRUD API and a front-end React application around it.
+
+## Getting Started
+
+**NOTE:** Because this project is using the newly updated `create-react-app`, you have to update to the most recent version of NodeJS. To do this, click here, download the `10.11.0` version, and then fork/clone this repo and install the dependencies in the server and the clent using `npm install` or `yarn` in each directory.
+
 Below are some user stories to help you complete this project.
 
-## Api
+## API
+
 The api should be built around a fighter resource. The resource should contain the following columns
 ```
 id
@@ -14,7 +22,6 @@ image_url
 strength
 ```
 The strength column should be a number between 1 - 100.
-
 
 __#1__
 ```
