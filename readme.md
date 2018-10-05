@@ -1,4 +1,4 @@
-# Mixed Martial Arts Project
+# gFighter Project
 
 This project will have you building a backend restful crud api and a front-end react application around it.
 Below are some user stories to help you complete this project.
