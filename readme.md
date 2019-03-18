@@ -6,7 +6,9 @@ This project will have you building a backend REST-ful CRUD API and a front-end 
 
 ## Getting Started
 
-**NOTE:** Because this project is using the newly updated `create-react-app`, you have to update to the most recent version of NodeJS. To do this, click here, download the `10.11.0` version, and then fork/clone this repo and install the dependencies in the server and the clent using `npm install` or `yarn` in each directory.
+**NOTE:** Because this project is using the newly updated `create-react-app`, you will want to verify that you have AT LEAST v10.0.0 or higher of NodeJS. You can check it by running `node -v` anywhere in your terminal. If you do need to upgrade NodeJS, [click here and download the LTS version](https://nodejs.org/en/) and then install that after it's done downloading.
+
+Once you're done with that, fork/clone this repo and install the dependencies in the server and the clent using `npm install` or `yarn` in each directory.
 
 Below are some user stories to help you complete this project.
 
